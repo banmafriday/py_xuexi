@@ -25,7 +25,7 @@ class Dog():
 
 class Bird():
     def fly(self):
-        print("鸟在飞!")
+        print("鸟在飞!!!")
 
 
 # --------------
