@@ -35,3 +35,4 @@ def insert_data():
 
 
 insert_data()
+print("")
