@@ -16,7 +16,7 @@ def insert_data():
     for i in range(110000):
         a = 1
         a += 1
-        print(i)
+        print(i,i)
         person_data.append(i)
 
     print(person_data)
