@@ -10,3 +10,5 @@ print(data)
 file2 = open(r"F:\bbb\132432_1.png", "wb")
 file2.write(data)
 file2.close()
+
+print("斑马")
