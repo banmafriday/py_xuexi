@@ -1,7 +1,7 @@
 #coding:utf-8
 import pymysql
 from faker import Faker
-
+import time
 faker = Faker("zh_CN")  # 中文数据
 
 
