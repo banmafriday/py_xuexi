@@ -1,5 +1,5 @@
 # coding=utf-8
-
+# code
 import uuid
 
 name = 'test_name'
